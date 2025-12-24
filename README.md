@@ -1,9 +1,9 @@
-# Machine Learning Projects 🚀
+# Machine Learning Projects 
 
 This repository contains six machine learning projects implemented using Python and Google Colab.  
 These projects helped me understand core ML concepts through hands-on practice.
 
-## 📌 Projects Included
+##  Projects Included
 
 1. **Exploratory Data Analysis (EDA)**
    - Data cleaning, visualization, and insights
@@ -28,17 +28,13 @@ These projects helped me understand core ML concepts through hands-on practice.
    - Distance-based classification
    - Simple and effective algorithm
 
-## 🛠 Tools & Technologies
+ Tools & Technologies
 - Python
 - Google Colab
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## 📂 How to Run
-Open the `.ipynb` files using:
-- Google Colab or
-- Jupyter Notebook
 
-## 👤 Author
+##  Author
 Palak Patel
